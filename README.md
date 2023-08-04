@@ -17,7 +17,25 @@ It is an ambitious antivirus project that seeks to fortify your digital fortress
 
 ✨ **File Quarantine**: Whenit  detects a lurking danger, it swiftly isolates the threat in its impenetrable quarantine zone, safeguarding your data from harm.
 
-
+### Structure
+```
+.
+├── main
+│   ├── antivirus.py
+│   
+│   
+│
+└── AntiVirus
+    ├── Large_Update_File
+    │   ├── links_current.txt
+    │   ├── links_downloaded.txt
+    │   └── signatures.txt
+    │
+    ├── Quarantine
+    │
+    └── sf
+        └── sf.txt
+```
 
 ### Usage
 
