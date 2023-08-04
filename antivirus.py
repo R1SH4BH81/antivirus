@@ -842,7 +842,7 @@ def gui_thread():
     global special_text
 
     main = tkinter.Tk()
-    main.title("ANTIVIRUS by RISHABH MISHRA")
+    main.title("ANTIVIRUS ver.1")
     main.wm_iconbitmap("")
     main.configure(bg=bgc)
     main.geometry("750x200")  # width x height
