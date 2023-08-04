@@ -21,9 +21,7 @@ It is an ambitious antivirus project that seeks to fortify your digital fortress
 ```
 .
 ├── main
-│   ├── antivirus.py
-│   
-│   
+│   └──  antivirus.py
 │
 └── AntiVirus
     ├── Large_Update_File
